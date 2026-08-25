@@ -266,7 +266,7 @@ PORT=8003
 - [x] Correção arquitetural: esboço em vez de lançamento direto
 - [x] Deploy como serviço de sistema com início automático
 - [x] Validação ponta a ponta em ambiente de homologação
-- [ ] Idempotência por chave do documento na camada de API
+- [x] Idempotência por chave do documento na camada de API
 - [ ] Integração com o app de conferência de XML
 - [ ] Cobertura de cenários fiscais adicionais (interestadual, Simples Nacional)
 - [ ] Extensão para outros documentos de entrada (NF-e de serviço)
