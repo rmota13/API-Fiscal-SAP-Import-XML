@@ -4,7 +4,7 @@
 > da leitura do XML à criação do esboço na fila de aprovação fiscal 
 > preservando integralmente o processo de conferência humana.
 
-**Status:** 🔄 Em desenvolvimento · Endpoint validado em ambiente de homologação
+**Status:** ✅ Em produção · Endpoint validado
 
 **Autor:** Rodrigo Mota de Oliveira
 **Stack:** Python · FastAPI · SAP Business One Service Layer · n8n · Lovable · Microsoft Teams
