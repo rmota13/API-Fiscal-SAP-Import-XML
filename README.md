@@ -77,7 +77,7 @@ do fluxo manual.
 | Erro do robô é reversível | Cancela-se o esboço; nenhum lançamento contábil foi feito |
 | Zero mudança de processo | Quem aprova não percebe diferença entre manual e automático |
 
-Automação madura não remove o controle humano — **remove a digitação**.
+Automação madura não remove o controle humano **remove a digitação**.
 
 ---
 
@@ -110,7 +110,7 @@ x-api-key: {API_KEY}
 
 > `card_code` é opcional. Quando omitido, a API resolve o fornecedor
 > pelo CNPJ no cadastro do ERP. Fornecedor não cadastrado retorna `422`
-> com mensagem acionável — não falha silenciosamente.
+> com mensagem acionável não falha silenciosamente.
 
 **Response `200`**
 ```json
@@ -155,7 +155,7 @@ CSTforIPI / PIS / COFINS  {CSTs de tributos federais}
 
 **Decisão:** gabarito fixo, não parametrização dinâmica. Variações fiscais
 (operações interestaduais, fornecedores do Simples Nacional) serão tratadas
-como extensões explícitas e testadas — não como configuração livre.
+como extensões explícitas e testadas não como configuração livre.
 Flexibilidade prematura em regra fiscal é passivo, não feature.
 
 ---
