@@ -284,7 +284,7 @@ PORT=8003
 - Isolamento de domínio entre sistemas que compartilham o mesmo backend
 - Design de erro voltado ao operador, não ao desenvolvedor
 - Deploy em ambiente Windows Server corporativo, com serviço gerenciado
-
+ 
 ---
 
 ## Autor
