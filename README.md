@@ -267,8 +267,9 @@ PORT=8003
 - [x] Deploy como serviço de sistema com início automático
 - [x] Validação ponta a ponta em ambiente de homologação
 - [x] Idempotência por chave do documento na camada de API
-- [ ] Integração com o app de conferência de XML
-- [ ] Cobertura de cenários fiscais adicionais (interestadual, Simples Nacional)
+- [x] Integração com o app de conferência de XML
+- [x] Cobertura de cenários fiscais adicionais (interestadual, Simples Nacional)
+- [x] Aprovação → produção
 - [ ] Extensão para outros documentos de entrada (NF-e de serviço)
 
 ---
