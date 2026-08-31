@@ -19,7 +19,7 @@
 A entrada de CT-e (Conhecimento de Transporte Eletrônico) no ERP é um processo
 recorrente, repetitivo e de alto custo operacional em qualquer empresa que contrata frete:
 
-- Cada documento exige login no cliente do ERP e preenchimento manual de ~15 campos fiscais
+- Cada documento exige login no cliente do ERP e preenchimento manual de uns 15 campos fiscais
 - Os campos são sempre os mesmos (CFOP, CST, conta contábil, utilização, série), mas errar um deles gera retrabalho contábil
 - A vinculação com a NF de venda correspondente depende de conferência visual
 - O volume torna o processo caro: em um cenário de 90 documentos/mês,
